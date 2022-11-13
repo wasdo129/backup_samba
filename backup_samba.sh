@@ -13,7 +13,7 @@ PASSWORD="backup12"
 REMOTE_HOST=192.168.88.33 
 
 # Информация, нужная для самого резервного копирования:
-BACKUP_DIR=/opt/Share
+BACKUP_DIR=/mnt/share
 DT=`date '+%Y%m%d'`
 BACKUP_SRC=/home/virt3/backups
 
